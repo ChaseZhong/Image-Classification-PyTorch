@@ -5,4 +5,4 @@ PyYAML==6.0
 torch==1.11.0
 torch_optimizer==0.3.0
 torchstat==0.0.7
-torchvision==0.11.1
+torchvision==0.1.6
