@@ -2,7 +2,7 @@ import argparse
 
 import torch
 import yaml
-from torchstat import stat
+import torchstat
 
 from convNet import CNN
 from AlexNet import AlexNet
